@@ -3,7 +3,7 @@
 - 使用基本步骤请参考: [koa-web](https://www.npmjs.com/package/koa-web)
 - sass运用越来越广泛
 
-#### 安装 koa-web-session
+#### 安装 koa-web-scss
 
 ```
 npm i koa-web
