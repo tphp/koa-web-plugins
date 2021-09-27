@@ -1,0 +1,20 @@
+{
+  "name": "koa-web-session",
+  "version": "1.0.1",
+  "description": "koa-web session",
+  "main": "index.js",
+  "author": "tphp",
+  "license": "MIT",
+  "repository": "tphp/koa-web-plugins",
+  "dependencies": {
+    "koa-session": "^6.2.0"
+  },
+  "devDependencies": {
+    "koa-web": "^1.2.1"
+  },
+  "keywords": [
+    "koa-web",
+    "koa-session",
+    "session"
+  ]
+}
