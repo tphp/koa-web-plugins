@@ -1,0 +1,20 @@
+{
+  "name": "koa-web-scss",
+  "version": "1.0.0",
+  "description": "koa-web scss",
+  "main": "index.js",
+  "author": "tphp",
+  "license": "MIT",
+  "repository": "tphp/koa-web-plugins",
+  "dependencies": {
+    "sass": "^1.42.1"
+  },
+  "devDependencies": {
+    "koa-web": "^1.2.1"
+  },
+  "keywords": [
+    "koa-web",
+    "scss",
+    "sass"
+  ]
+}
